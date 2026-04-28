@@ -183,6 +183,7 @@ MonoBehaviour:
   additiveMaterial: {fileID: 0}
   multiplyMaterial: {fileID: 0}
   screenMaterial: {fileID: 0}
+  forceAdditiveMaterial: 0
   m_SkeletonColor: {r: 1, g: 1, b: 1, a: 1}
   initialSkinName: 
   initialFlipX: 0
